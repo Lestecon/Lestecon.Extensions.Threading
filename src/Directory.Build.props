@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <PackageId>$(MSBuildAssemblyName)</PackageId>
+    <Version>9.0.0</Version>
+    <Authors>Lestecon</Authors>
+    <Company>Lestecon</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+  <PropertyGroup>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+</Project>
