@@ -1,4 +1,3 @@
-
 namespace Lestecon.Extensions.Threading;
 
 public class FunctionExecutionQueue
